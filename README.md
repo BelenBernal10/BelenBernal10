@@ -3,4 +3,3 @@
 - 🌱 I am currently learning about best practices in programming and algorithms
 - 💞️ I am looking to collaborate on new projects
 - 📫 How to contact me Belen.Bernal@assistcard.com
-- 😄 Pronouns: Belu
